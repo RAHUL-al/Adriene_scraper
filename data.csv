@@ -1,0 +1,98 @@
+EventName,EventDate,Id,Category,Price
+Cabaret,2024-03-31T14:30:00,39345,General Admission *Standard,$65.00
+Cabaret,2024-03-31T14:30:00,39345,General Admission - Wheelchair Accessible *Standard,$65.00
+Cabaret,2024-03-30T19:30:00,39344,General Admission *Standard,$65.00
+Cabaret,2024-03-30T19:30:00,39344,General Admission - Wheelchair Accessible *Standard,$65.00
+Cabaret,2024-03-30T19:30:00,39344,VIP - Wheelchair Accessible *Standard,$85.00
+Cabaret,2024-03-29T19:30:00,39343,General Admission *Standard,$65.00
+Cabaret,2024-03-29T19:30:00,39343,VIP *Standard,$85.00
+Cabaret,2024-03-29T19:30:00,39343,VIP - Wheelchair Accessible *Standard,$85.00
+Cabaret,2024-03-28T19:30:00,39342,General Admission *Standard,$65.00
+Cabaret,2024-03-28T19:30:00,39342,General Admission - Wheelchair Accessible *Standard,$65.00
+Cabaret,2024-03-28T19:30:00,39342,VIP *Standard,$85.00
+Cabaret,2024-03-28T19:30:00,39342,VIP - Wheelchair Accessible *Standard,$85.00
+Variety Virtuoso Award Presentation: Tom Hiddleston,2024-04-09T19:30:00,41073,Film Admission *Standard,$54.00
+Variety Virtuoso Award Presentation: Tom Hiddleston,2024-04-09T19:30:00,41073,Film Admission Accessible Seat *Standard,$54.00
+Ezra,2024-04-13T19:00:00,41047,Film Admission *Standard,$34.00
+Ezra,2024-04-13T19:00:00,41047,Film Admission Accessible Seat *Standard,$34.00
+Mountains,2024-04-07T19:00:00,41046,Film Admission *Standard,$23.00
+Mountains,2024-04-07T19:00:00,41046,Film Admission Accessible Seat *Standard,$23.00
+Marionetas de la Esquina: Learning and Forgetting,2024-09-28T14:00:00,40405,General Admission *Standard,$30.00
+Marionetas de la Esquina: Learning and Forgetting,2024-09-29T11:00:00,40407,General Admission *Standard,$30.00
+Marionetas de la Esquina: Learning and Forgetting,2024-09-29T11:00:00,40407,General Admission - Wheelchair Accessible *Standard,$30.00
+Marionetas de la Esquina: Learning and Forgetting,2024-09-28T11:00:00,40404,General Admission *Standard,$30.00
+Marionetas de la Esquina: Learning and Forgetting,2024-09-28T11:00:00,40404,General Admission - Wheelchair Accessible *Standard,$30.00
+Marionetas de la Esquina: Learning and Forgetting,2024-09-29T14:00:00,40408,General Admission *Standard,$30.00
+Marionetas de la Esquina: Learning and Forgetting,2024-09-29T14:00:00,40408,General Admission - Wheelchair Accessible *Standard,$30.00
+Studio Socials,2024-06-25T20:00:00,40645,RSVP Reservation,$0.00
+An Evening With Liz Cheney in Conversation With Ana Navarro,2024-05-22T19:00:00,41127,General Admission - Book Included With Each Ticket,$55.00
+An Evening With Liz Cheney in Conversation With Ana Navarro,2024-05-22T19:00:00,41127,General Admission - Book Included With Every Other Ticket (non-book ticket savings will be seen in shopping cart),$55.00
+An Evening With Liz Cheney in Conversation With Ana Navarro,2024-05-22T19:00:00,41127,Accessible Seating General Admission - Book Included With Each Ticket,$55.00
+An Evening With Liz Cheney in Conversation With Ana Navarro,2024-05-22T19:00:00,41127,Accessible Seating General Admission - Book Included With Every Other Ticket (non-book ticket savings will be seen in shopping cart),$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-19T14:30:00,39367,General Admission *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-19T14:30:00,39367,General Admission - Wheelchair Accessible *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-17T19:30:00,39364,General Admission *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-17T19:30:00,39364,General Admission - Wheelchair Accessible *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-18T14:30:00,39365,General Admission *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-18T14:30:00,39365,General Admission - Wheelchair Accessible *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-16T19:30:00,39363,General Admission *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-16T19:30:00,39363,General Admission - Wheelchair Accessible *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-18T19:30:00,39366,General Admission *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-18T19:30:00,39366,General Admission - Wheelchair Accessible *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-12T14:30:00,39362,General Admission *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-12T14:30:00,39362,General Admission - Wheelchair Accessible *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-11T19:30:00,39361,General Admission *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-11T19:30:00,39361,General Admission - Wheelchair Accessible *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-10T19:30:00,39359,General Admission *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-10T19:30:00,39359,General Admission - Wheelchair Accessible *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-04T19:30:00,39355,General Admission *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-04T19:30:00,39355,General Admission - Wheelchair Accessible *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-08T19:30:00,39357,General Admission *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-08T19:30:00,39357,General Admission - Wheelchair Accessible *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-02T19:30:00,39352,General Admission *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-02T19:30:00,39352,General Admission - Wheelchair Accessible *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-09T19:30:00,39358,General Admission *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-09T19:30:00,39358,General Admission - Wheelchair Accessible *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-05T14:30:00,39356,General Admission *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-05T14:30:00,39356,General Admission - Wheelchair Accessible *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-04T14:30:00,39354,General Admission *Standard,$55.00
+Cuban Chicken Soup When There's No More Café,2024-05-03T19:30:00,39353,General Admission *Standard,$60.00
+Cuban Chicken Soup When There's No More Café,2024-05-03T19:30:00,39353,General Admission - Wheelchair Accessible *Standard,$60.00
+Los Frikis,2024-04-06T19:00:00,41044,Film Admission *Standard,$23.00
+Los Frikis,2024-04-06T19:00:00,41044,Film Admission Accessible Seat *Standard,$23.00
+Thelma,2024-04-05T19:00:00,41043,Film Admission *Standard,$34.00
+Thelma,2024-04-05T19:00:00,41043,Film Admission Accessible Seat *Standard,$34.00
+The Forgotten Founding Fathers,2024-04-20T19:30:00,40493,General Admission *Standard,$30.00
+The Forgotten Founding Fathers,2024-04-20T19:30:00,40493,General Admission - Wheelchair Accessible *Standard,$30.00
+The Asylum,2024-04-07T15:00:00,41045,Film Admission *Standard,$23.00
+The Asylum,2024-04-07T15:00:00,41045,Film Admission Accessible Seat *Standard,$23.00
+The Forgotten Founding Fathers,2024-04-20T15:00:00,40440,General Admission *Standard,$30.00
+The Forgotten Founding Fathers,2024-04-20T15:00:00,40440,General Admission - Wheelchair Accessible *Standard,$30.00
+The Forgotten Founding Fathers,2024-04-21T15:00:00,40494,General Admission *Standard,$30.00
+The Forgotten Founding Fathers,2024-04-21T15:00:00,40494,General Admission - Wheelchair Accessible *Standard,$30.00
+PIANO SLAM 2024,2024-04-11T19:30:00,40611,General Admission *First Access,$0.00
+The Verve Pipe,2024-04-24T19:30:00,40698,*Standard,$65.00
+The Verve Pipe,2024-04-24T19:30:00,40698,*Standard,$65.00
+The Verve Pipe,2024-04-24T19:30:00,40698,*Standard,$45.00
+The Verve Pipe,2024-04-24T19:30:00,40698,*Standard,$45.00
+Gold Dust Lounge,2024-04-11T19:30:00,40078,*Standard,$20.00
+Gold Dust Lounge,2024-04-11T19:30:00,40078,*Standard,$20.00
+Braidsman,2024-04-03T19:30:00,40153,*Standard,$20.00
+Braidsman,2024-04-03T19:30:00,40153,*Standard,$20.00
+Cabaret,2024-04-04T19:30:00,39346,General Admission *Standard,$65.00
+Cabaret,2024-04-04T19:30:00,39346,General Admission - Wheelchair Accessible *Standard,$65.00
+Cabaret,2024-04-04T19:30:00,39346,VIP *Standard,$85.00
+Cabaret,2024-04-06T14:30:00,39348,General Admission *Standard,$65.00
+Cabaret,2024-04-06T14:30:00,39348,General Admission - Wheelchair Accessible *Standard,$65.00
+Cabaret,2024-04-06T14:30:00,39348,VIP *Standard,$85.00
+Cabaret,2024-04-06T14:30:00,39348,VIP - Wheelchair Accessible *Standard,$85.00
+Cabaret,2024-04-07T14:30:00,39350,General Admission *Standard,$65.00
+Cabaret,2024-04-07T14:30:00,39350,General Admission - Wheelchair Accessible *Standard,$65.00
+Cabaret,2024-04-07T14:30:00,39350,VIP *Standard,$85.00
+Cabaret,2024-04-07T14:30:00,39350,VIP - Wheelchair Accessible *Standard,$85.00
+Cabaret,2024-04-06T19:30:00,39349,General Admission *Standard,$65.00
+Cabaret,2024-04-06T19:30:00,39349,VIP - Wheelchair Accessible *Standard,$85.00
+Cabaret,2024-04-05T19:30:00,39347,General Admission *Standard,$65.00
+Cabaret,2024-04-05T19:30:00,39347,General Admission - Wheelchair Accessible *Standard,$65.00
+Cabaret,2024-04-05T19:30:00,39347,VIP *Standard,$85.00
+Cabaret,2024-04-05T19:30:00,39347,VIP - Wheelchair Accessible *Standard,$85.00
