@@ -8,9 +8,9 @@ class AdriSpider(scrapy.Spider):
     name = "Adri"
     List = []
     
-    proxy = 'http://private.residential.proxyrack.net:10025'
+    proxy = 'http://private.residential.proxyrack.net:'
     username = 'lew_soft;country=US'
-    password = 'AQZ3OLF-9E2DHMO-7CNYVIZ-NKIKJCJ-DP301FJ-GJEYVYL-YDOPMPH'
+    password = 'AQZ3OLF-9E2DHMO-7CNYVIZ-NKIKJCJ-DP301F'
     port = 10025
     superProxyUrl = ('http://%s:%s@private.residential.proxyrack.net:%d' %(username,password, port))
     
